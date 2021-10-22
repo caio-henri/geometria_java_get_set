@@ -20,8 +20,8 @@ public class Circulo {
 
   }
 
-  public static void setPi(double novoPi){
-    Circulo.pi = novoPi;
+  public static void setPi(double pi){
+    Circulo.pi = pi;
  
   }
 
